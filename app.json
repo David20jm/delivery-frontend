@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "frontend",
+    "slug": "frontend",
+    "scheme": "frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "android": {
+      "package": "com.delivery.medina",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "plugins": [
+      "expo-notifications",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c59b7a75-ecad-4f67-8355-f31669a3a23b"
+      }
+    },
+    "owner": "juand20"
+  }
+}
