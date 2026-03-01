@@ -1,0 +1,9 @@
+node_modules
+.expo
+.git
+.gitignore
+android/.gradle
+android/build
+build
+dist
+*.log
